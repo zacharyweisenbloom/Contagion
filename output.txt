@@ -1,0 +1,244 @@
+INFO:__main__:Seeding
+
+INFO:__main__:Running
+DEBUG:__main__:Step 0
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 1
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 2
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 3
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 4
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 5
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 6
+DEBUG:model:Recovery at 3,3
+DEBUG:model:Recovery at 4,8
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  I  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  I  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 7
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 8
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 9
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 10
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 11
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 12
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 13
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 14
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 15
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 16
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 17
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 18
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
+
+DEBUG:__main__:Step 19
+ S  .  S  S  S  S  S  S  .  . 
+ S  .  .  S  S  S  .  .  S  S 
+ S  S  S  S  .  .  S  S  S  S 
+ S  .  S  R  .  .  .  .  S  . 
+ .  S  S  S  S  S  .  .  R  S 
+ S  .  .  .  S  .  S  S  .  . 
+ .  .  S  .  .  .  .  .  S  . 
+ .  .  S  .  S  .  S  .  .  . 
+ .  S  S  .  .  .  .  .  S  . 
+ S  .  .  .  S  S  S  .  S  S 
